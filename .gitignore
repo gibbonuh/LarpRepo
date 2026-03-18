@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+.build-scratch/
+DerivedData/
+DerivedDataArchive/
+DerivedDataIOS/
+DerivedDataUnsigned/
+build/Payload/
+*.xcuserstate

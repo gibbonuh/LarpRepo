@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>method</key>
+	<string>development</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>teamID</key>
+	<string>3P88EQ69T9</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>app.plantain7502.soybean5714</key>
+		<string>00008130-001238563CA3001CAV43MU_dev</string>
+	</dict>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>compileBitcode</key>
+	<false/>
+</dict>
+</plist>
